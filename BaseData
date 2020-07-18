@@ -1,8 +1,8 @@
 { 
   "channels" : [
     {
-      "title" : "백파더",
-      "fbNativeInterval" : "6",
+      "title" : "수미네반찬",
+      "fbNativeInterval" : "5",
       "fbNativeReload" : "true",
       "notiOn" : "false",
       "notiTitle" : "공지",
@@ -12,18 +12,15 @@
       "type" : "0",
       "typecnt" : "0",
       "typenames" : [""],
-      "mainUrl" : "http:",
       "url" : "http://m.post.naver.com/my/series/detail/",
       "searchUrl" : "http://m.post.naver.com/search/authorPost/",
       "postId" : "11773044",
       "memberNo" : "16220685",
       "seriesNo" : "600029",
-      "keyword" : "레시피",
-      "sortType" : "createDate.dsc",
       "videoTit" : "h3.play_tit",
       "itemList" : [
-          { "title" : "요린이 백서", "id" : "1", "img" : "", "sort" : "1"},
-          { "title" : "방송 영상", "id" : "2", "img" : "", "sort" : "2"}
+          { "title" : "요린이 백서", "id" : "2", "img" : "", "sort" : "1"},
+          { "title" : "방송 영상", "id" : "1", "img" : "", "sort" : "2"}
       ]
     }    
   ]
