@@ -1,7 +1,7 @@
 { 
   "channels" : [
     {
-      "title" : "수미네반찬",
+      "title" : "백파더레시피",
       "fbNativeInterval" : "5",
       "fbNativeReload" : "true",
       "notiOn" : "false",
